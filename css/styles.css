@@ -35,6 +35,10 @@ body{
 	font-size: 17px;
 }
 
+#menu-principal a{
+	color: white;
+}
+
 #menu-principal-item{
 	cursor: pointer;
 }
@@ -69,9 +73,7 @@ iframe{
 	height: 900px;
 	box-shadow: 10px 0px 5px #888888;
 }
-a{
-	color: white;
-}
+
 
 #titulo-cv{
 	text-align: center;
