@@ -9,11 +9,11 @@ body{
 	background-size: 100% ;
 	background-attachment: fixed;
 	border-bottom: solid;
-	border-bottom-color: rgb(84,7,120);
+	border-bottom-color: rgba(0,0,0,.5);
 	border-bottom-width: 10px;
 }
 #header-page-top{
-	margin-bottom: 400px;
+	margin-bottom: 430px;
 }
 #header-title{
 	color: white;
