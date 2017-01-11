@@ -9,7 +9,7 @@ body{
 	background-size: 100% ;
 	background-attachment: fixed;
 	border-bottom: solid;
-	border-bottom-color: orange;
+	border-bottom-color: rgb(84,7,120);
 	border-bottom-width: 10px;
 }
 #header-page-top{
@@ -55,25 +55,21 @@ body{
 
 #content-page{
 	margin-top: 20px;
-	color: orange;
 	font-family: cambria;
-}
-#subtitle-content{
-	font-size: 20px;
+	color: rgb(84,7,120);
 }
 
-#perfil-content{
-	margin-top: 20px;
-	
-	
-}
-#perfil-content img{
-	border:solid;
-	color: orange;
-}
-#content-page p{
-	font-size: 17px;
-	line-height: 25px;
+#about-me{
 	text-align: justify;
-	font-weight: bold;
+	border-left: solid;
+	border-width: 1px;
+}
+
+#portfolio{
+	text-align: center;
+}
+#portfolio-item{
+	margin: 20px 0px;
+	padding: 10px;
+	
 }
