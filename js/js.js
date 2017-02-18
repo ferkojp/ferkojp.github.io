@@ -33,7 +33,7 @@ $(document).ready(function(){
 
 	});
 	$("#link_genera").click(function(){
-		url = "https://ferkojp.github.io/generaCV/";
+		url = "https://polar-eyrie-62893.herokuapp.com/";
 		window.open(url, '_blank');
 
 	});
